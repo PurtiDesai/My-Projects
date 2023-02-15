@@ -1,2 +1,2 @@
 # PythonProjects
-All my practice projects based on Python coding
+All my practice projects based on Python, Machine Learning, Deep Learning and Tableau 
